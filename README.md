@@ -16,6 +16,16 @@ I made a PCB for this project, I tried to keep it single sided but there are two
 | :---: | :---: |
 | ![schemetics](PCB/Images/Schematics.PNG) | ![Tracks](PCB/Images/Tracks.PNG) |
 
+## 3D Casing
+
+I also designed a 3D enclosure box for the Project.
+
+|Box|Lid|
+| :---: | :---: |
+| ![Box](3D/box.JPG) | ![Lid](3D/Lid.JPG) |
+
+![Box](3D/Assembly.JPG)
+
 ## Bill of Materials (BOM)
 
 | Name | Quantity | Total Cost (USD) | Link | Distributor |
