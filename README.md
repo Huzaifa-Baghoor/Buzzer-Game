@@ -2,7 +2,7 @@
 
 This is a buzzer game setup like we see in TV shows, in which the player that presses the button first, his buzzer beeps and all other players are locked out until the admin allows.
 
-![3D Model](PCB/Images/Screenshot_20260617-192504.png)
+![3D Model](/Screenshot_20260617-192504.png)
 
 ## Working
 
